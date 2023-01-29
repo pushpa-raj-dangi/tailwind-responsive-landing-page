@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .home-container {
-  background-image: url("/dist/img/bg.jpg");
+  background-image: url("img/bg.jpg");
   background-position: right bottom;
   background-repeat: no-repeat;
 }
